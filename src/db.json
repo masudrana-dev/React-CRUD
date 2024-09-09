@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Yeamin",
+            "username": " rana",
+            "email": "yeamin@gmail.com",
+            "phone": "0147258963",
+            "website": "masud rana"
+        },
+        {
+            "id": "2",
+            "name": "masud rana",
+            "username": " rana",
+            "email": "masud@gmail.com",
+            "phone": "masud rana",
+            "website": "masud rana"
+        },
+        {
+            "id": "3",
+            "name": "masud rana",
+            "username": " rana",
+            "email": "masud@gmail.com",
+            "phone": "masud rana",
+            "website": "masud rana"
+        },
+        {
+            "id": "4",
+            "name": "Rayhan Mahmud",
+            "email": "rayhan@gmail.com",
+            "phone": "22456987410"
+        }
+    ]
+}

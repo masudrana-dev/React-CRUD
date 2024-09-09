@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "50b2",
+      "name": "Rayhan Mahmud rihan",
+      "email": "rayhan@gmail.com",
+      "phone": "01625291099"
+    },
+    {
+      "id": "8dd3",
+      "name": "Tanjimul Islam",
+      "email": "tanjim@gmail.com",
+      "phone": "012365874123"
+    },
+    {
+      "id": "1df3",
+      "name": "Fahim Khan",
+      "email": "fhim@gmail.com",
+      "phone": "14778523690"
+    },
+    {
+      "id": "fcf9",
+      "name": "Mamin",
+      "email": "mamin@gmail.com",
+      "phone": "1472589630"
+    }
+  ]
+}
